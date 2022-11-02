@@ -15,4 +15,4 @@ function setCardType(type) {
     ccBgColor02.setAttribute("fill", colors[type] [1]);
 };
 
-setCardType("mastercard");
+setCardType("mastercard"); 
